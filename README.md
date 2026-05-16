@@ -157,7 +157,6 @@
 ### 📚 Published Research: "GenAI & LLM Concerns Mitigation"
 **Peer-Reviewed Publication**
 
-- 🎯 **Impact:** Cited by 200+ researchers globally
 - 📖 **Focus:** Current concerns and mitigation strategies in GenAI
 - 🏆 **Recognition:** Featured in top-tier AI conferences
 
